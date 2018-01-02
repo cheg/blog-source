@@ -1,0 +1,7 @@
+baseURL: "https://cheg.github.io/"
+languageCode: "en-us"
+title: "CheG's Blog"
+metaDataFormat: yaml
+theme: "hugo-theme-minos"
+SectionPagesMenu: "main"
+
